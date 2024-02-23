@@ -253,36 +253,6 @@ print("""
 print('\033[0;32mWELCOME TO MY TOOL CCTV-R / ONLINE CCTV HACKED')
 print('\033[0;31m------>Version 1.2<------\n')
 time.sleep(5)
-os.system(delet)
-print("""\033[0;31m
-            ──▄▀▀▀▄───────────────
-           \033[33mPlease Login To Continue\033[0;31m
-            ──█───█───────────────
-            ─███████─────────▄▀▀▄─
-            ░██─▀─██░░█▀█▀▀▀▀█░░█░
-            ░███▄███░░▀░▀░░░░░▀▀░░
-\033[31m           ────────────────────────────
-\033[33m                 Enter Password
-\033[31m           ──────────────────────────── """)
-
-usern='''AHMED'''
-passwd='''AHMED'''
-inpuser=str(input('''    ╔══╗
-    ╚══[Username>>'''))
-inppass=str(input('''        Password>>'''))
-if usern==inpuser and passwd==inppass:
-        print('''\033[0;92m[✓] Username & Password Correct! ''')
-        pass
-else:
-        print('''\033[0;91m[ × ] Incorrect Username! /Password!
-                 Please Try Again
-
-                    [Contact Admin]  ''')
-        os.system("xdg-open \'https://www.facebook.com/white.hat.hacker.Rihan\'")
-        while True:
-                os.system("python CCTV-R.py")
-
-os.system(delet)
 print("""\033[0;35m
 
 \033[0;31m  .,-:::::   .,-::::::::::::::::::::      .::. :::::::..
