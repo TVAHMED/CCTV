@@ -265,8 +265,8 @@ print("""\033[0;31m
 \033[33m                 Enter Password
 \033[31m           ──────────────────────────── """)
 
-usern='''joni'''
-passwd='''joni'''
+usern='''AHMED'''
+passwd='''AHMED'''
 inpuser=str(input('''    ╔══╗
     ╚══[Username>>'''))
 inppass=str(input('''        Password>>'''))
